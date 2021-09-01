@@ -5,7 +5,7 @@
     .nav-links {
         @include flex(column, center);
         position: absolute;
-        background: $ColorDarkViolet;
+        background: $ColorVeryDarkViolet;
         top: 4.3rem;
         left: 0;
         overflow: hidden;
